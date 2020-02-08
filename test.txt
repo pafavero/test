@@ -1,9 +1,4 @@
 empty 123ccccccccccccccccccccccc
 not anymore empty
 some change...
-<<<<<<< HEAD
-rebase test2ssssssfgfdgdfgdfgd  commitA after 3 in the time
-=======
-rebase test2ssssssfgfdgdfgdfgd  commit3
->>>>>>> 50febaac3134295961f976fff5308e2ec0f2c04e
-new line!!
+rebase test2ssssssfgfdgdfgdfgd  commit4
