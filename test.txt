@@ -1,5 +1,5 @@
 empty 123ccccccccccccccccccccccc
 not anymore empty
 some change...
-rebase test2ssssssfgfdgdfgdfgd  commit1
+rebase test2ssssssfgfdgdfgdfgd  commit2
 new line!!
